@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36914282824",
+    "firebase_url": "https://pocfirebasechatmessaging.firebaseio.com",
+    "project_id": "pocfirebasechatmessaging",
+    "storage_bucket": "pocfirebasechatmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36914282824:android:959aa03f04fdd7ae",
+        "android_client_info": {
+          "package_name": "makeable.poc_firebase_chatmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36914282824-fo9r3qds0okjdck2f8i78q9q8c5u3acj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "makeable.poc_firebase_chatmessaging",
+            "certificate_hash": "6541b76a8f17eedce3fc7a2fdc89a7a23df4b322"
+          }
+        },
+        {
+          "client_id": "36914282824-904n3fnq8gjfesgle2p22u5l7rv3uhmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedG1WhDO7-0Pk6amwxeW3O3lU8SEwYmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36914282824-904n3fnq8gjfesgle2p22u5l7rv3uhmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

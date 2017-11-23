@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POC_Firebase_ChatMessaging</string>
+    <string name="changeNameDialog_message">Please enter name</string>
+    <string name="changeNameDialog_title">Choose Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">cancel</string>
+</resources>
